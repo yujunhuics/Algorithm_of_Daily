@@ -4,7 +4,8 @@
 @Project ：Algorithm_of_Daily 
 @File    ：newcode.py
 @Author  ：Junhui Yu
-@Date    ：2020/11/21 13:57 
+@Date    ：2020/11/21 13:57
+@test
 '''
 while True:
     try:
