@@ -20,7 +20,6 @@ class Solution:
                 if numbers[i]+numbers[j]==target:
                     return [i+1,j+1]
 
-
 s=Solution()
 o=s.twoSum([3,2,4],6)
 print(o)
