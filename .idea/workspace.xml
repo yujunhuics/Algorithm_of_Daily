@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ac6b66c-dafb-4add-a10d-d6f43f9e5d75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/newcode/连续子数组的最大和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newcode/反转字符串.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,17 +19,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newcode/最长无重复字串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="54" column="31" lean-forward="true" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            <state relative-caret-position="918">
+              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newcode/连续子数组的最大和.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/newcode/连续子数组的最大和.py">
+        <entry file="file://$PROJECT_DIR$/newcode/反转字符串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="10" selection-start-line="10" selection-end-line="24" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -59,6 +68,7 @@
         <option value="$PROJECT_DIR$/newcode/两数之和.py" />
         <option value="$PROJECT_DIR$/newcode/最长无重复字串.py" />
         <option value="$PROJECT_DIR$/newcode/连续子数组的最大和.py" />
+        <option value="$PROJECT_DIR$/newcode/反转字符串.py" />
       </list>
     </option>
   </component>
@@ -122,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.连续子数组的最大和">
+  <component name="RunManager" selected="Python.反转字符串">
     <configuration name="排序链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_of_Daily" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,6 +147,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/排序链表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="反转字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_of_Daily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newcode/反转字符串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +333,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.连续子数组的最大和" />
+        <item itemvalue="Python.反转字符串" />
         <item itemvalue="Python.最小的k个数" />
         <item itemvalue="Python.排序链表" />
         <item itemvalue="Python.newcode" />
@@ -322,7 +354,8 @@
       <workItem from="1606043569756" duration="4285000" />
       <workItem from="1607253536511" duration="2743000" />
       <workItem from="1607310040765" duration="3571000" />
-      <workItem from="1607346158078" duration="991000" />
+      <workItem from="1607346158078" duration="1156000" />
+      <workItem from="1607347641718" duration="235000" />
     </task>
     <task id="LOCAL-00001" summary="本地通过">
       <created>1606047151341</created>
@@ -359,17 +392,24 @@
       <option name="project" value="LOCAL" />
       <updated>1607313344844</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="连续子数组的最大和">
+      <created>1607347226355</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607347226355</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16034000" />
+    <option name="totallyTimeSpent" value="16476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1293" height="783" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.2279709" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.23201293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5022831" side_tool="true" weight="0.2497979" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -425,12 +465,13 @@
     <MESSAGE value="最小的k个数" />
     <MESSAGE value="两数之和" />
     <MESSAGE value="最长无重复子串" />
-    <option name="LAST_COMMIT_MESSAGE" value="最长无重复子串" />
+    <MESSAGE value="连续子数组的最大和" />
+    <option name="LAST_COMMIT_MESSAGE" value="连续子数组的最大和" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm_of_Daily$newcode.coverage" NAME="newcode Coverage Results" MODIFIED="1605938595938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_of_Daily$k.coverage" NAME="最小的k个数 Coverage Results" MODIFIED="1607254340914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcode" />
-    <SUITE FILE_PATH="coverage/Algorithm_of_Daily$.coverage" NAME="连续子数组的最大和 Coverage Results" MODIFIED="1607347152176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcode" />
+    <SUITE FILE_PATH="coverage/Algorithm_of_Daily$.coverage" NAME="反转字符串 Coverage Results" MODIFIED="1607347870697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcode" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/newcode.py" />
@@ -472,15 +513,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newcode/最长无重复字串.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="54" column="31" lean-forward="true" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        <state relative-caret-position="918">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/newcode/连续子数组的最大和.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" selection-start-line="10" selection-end-line="24" />
+        <state relative-caret-position="230">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcode/反转字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
