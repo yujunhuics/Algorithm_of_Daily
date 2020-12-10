@@ -13,7 +13,7 @@ import os
 from dataset import tokenlize
 from tqdm import tqdm  # 显示当前迭代进度
 
-TRAIN_PATH = r"D:\资料\[0]课件\阶段9-人工智能NLP项目\第四天\代码\代码\data\aclImdb\train"
+TRAIN_PATH = r"data\aclImdb\train"
 
 
 if __name__ == '__main__':
